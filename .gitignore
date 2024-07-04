@@ -14,4 +14,4 @@
 .pytest_cache
 
 # ignore the virtual environment 
-venvgit stauts
+venv
